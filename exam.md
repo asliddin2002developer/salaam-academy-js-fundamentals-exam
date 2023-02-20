@@ -19,8 +19,7 @@ alert(yillikMaosh);
 
 ---
 
-4.Foydalanuvchidan joriy yilni so'rang. So'ng joriy oyni so'rang. So'ng joriy kunni so'rang.
-Keyin esa 1970 yildan nechi kun o'tganini hisoblab bering.
+4.Foydalanuvchidan joriy yilni so'rang.Keyin esa 1970 yildan nechi kun o'tganini hisoblab bering.
 
 ---
 
