@@ -75,6 +75,20 @@ alert(?????);
 
 ---
 
+### for loop
+
+1.`for loop` orqali consolega 20 marta "Salom" so'zini chiqaring
+
+---
+
+2.`for loop` orqali 1dan 100gacha bolgan sonlarning yig'indisini chiqaring.
+
+---
+
+3.`for loop` orqali 100 dan 1 gacha sonlarni chiqaring: 100,99,98,97....... 1
+
+---
+
 ### funksiya (function)
 
 1.Foydalanuvhi bilan salomlashadigan funksiyani tuzing.
